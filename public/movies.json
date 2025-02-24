@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Thandel",
+      "hero": "Naga Chaitanya",
+      "theatre": "PVR Cinemas",
+      "price": 300,
+      "place": "Hyderabad",
+      "image": "thandel.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Guntur Karam",
+      "hero": "Mahesh Babu",
+      "theatre": "Inox",
+      "price": 350,
+      "place": "Hyderabad",
+      "image": "gunturkaram.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arjun Reddy",
+      "hero": "Vijay Deverakonda",
+      "theatre": "Cinepolis",
+      "price": 400,
+      "place": "Hyderabad",
+      "image": "arjunreddy.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Magadheera",
+      "hero": "Ram Charan",
+      "theatre": "Sree Rama Theatre",
+      "price": 320,
+      "place": "Hyderabad",
+      "image": "magadheera.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Srimanthudu",
+      "hero": "Mahesh Babu",
+      "theatre": "PVR Cinemas",
+      "price": 350,
+      "place": "Hyderabad",
+      "image": "srimanthudu.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Eega",
+      "hero": "Nani",
+      "theatre": "Inox",
+      "price": 330,
+      "place": "Hyderabad",
+      "image": "eega.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Fidaa",
+      "hero": "Varun Tej",
+      "theatre": "Cinepolis",
+      "price": 310,
+      "place": "Hyderabad",
+      "image": "fidaa.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jersey",
+      "hero": "Nani",
+      "theatre": "Sree Rama Theatre",
+      "price": 320,
+      "place": "Hyderabad",
+      "image": "jersey.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Baahubali: The Beginning",
+      "hero": "Prabhas",
+      "theatre": "PVR Cinemas",
+      "price": 300,
+      "place": "Hyderabad",
+      "image": "baahubali1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Vikramarkudu",
+      "hero": "Ravi Teja",
+      "theatre": "Inox",
+      "price": 340,
+      "place": "Hyderabad",
+      "image": "vikramarkudu.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Nannaku Prematho",
+      "hero": "NTR Jr.",
+      "theatre": "Cinepolis",
+      "price": 350,
+      "place": "Hyderabad",
+      "image": "nannakuprematho.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Pawan Kalyan's Gabbar Singh",
+      "hero": "Pawan Kalyan",
+      "theatre": "Sree Rama Theatre",
+      "price": 330,
+      "place": "Hyderabad",
+      "image": "gabbar.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Rangasthalam",
+      "hero": "Ram Charan",
+      "theatre": "PVR Cinemas",
+      "price": 340,
+      "place": "Hyderabad",
+      "image": "rangasthalam.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Bharat Ane Nenu",
+      "hero": "Mahesh Babu",
+      "theatre": "Inox",
+      "price": 350,
+      "place": "Hyderabad",
+      "image": "bharatanenenu.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Atharintiki Daredi",
+      "hero": "Pawan Kalyan",
+      "theatre": "Cinepolis",
+      "price": 330,
+      "place": "Hyderabad",
+      "image": "atharintikidaredi.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Ala Vaikunthapurramuloo",
+      "hero": "Allu Arjun",
+      "theatre": "Sree Rama Theatre",
+      "price": 320,
+      "place": "Hyderabad",
+      "image": "avp.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Kshana Kshanam",
+      "hero": "Venkatesh",
+      "theatre": "PVR Cinemas",
+      "price": 310,
+      "place": "Hyderabad",
+      "image": "kshanakshanam.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Baahubali 2: The Conclusion",
+      "hero": "Prabhas",
+      "theatre": "Inox",
+      "price": 400,
+      "place": "Hyderabad",
+      "image": "baahubali2.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Vakeel Saab",
+      "hero": "Pawan Kalyan",
+      "theatre": "Cinepolis",
+      "price": 330,
+      "place": "Hyderabad",
+      "image": "vakeelsaab.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Sye",
+      "hero": "Nithiin",
+      "theatre": "Sree Rama Theatre",
+      "price": 300,
+      "place": "Hyderabad",
+      "image": "sye.jpg"
+    }
+  ]
+  
